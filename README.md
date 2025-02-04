@@ -12,3 +12,6 @@ All the JavaScript code is in the html file. Feel free to fork and tinker.<br />
 <br />
 <br />
 ![Riemann Zeta Scope](./riemannzetascope_screenshot2.png?raw=true "Riemann Zeta Scope")
+<br />
+<br />
+![Riemann Zeta Scope](./riemannzetascope_screenshot3.png?raw=true "Riemann Zeta Scope")
