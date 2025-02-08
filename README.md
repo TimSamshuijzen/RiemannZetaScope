@@ -2,7 +2,7 @@
 
 Explore the spirals in the partial sums of the Riemann zeta function.
 
-https://www.complexity.zone/riemannzetascope/
+https://complexity.zone/riemannzetascope/
 
 Riemann Zeta Scope is a portable web app.<br />
 To run the app locally, download the html file and open it in your browser.<br />
