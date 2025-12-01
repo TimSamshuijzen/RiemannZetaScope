@@ -1,11 +1,12 @@
 
 # Riemann Zeta Scope
 
-A tool for studying the partial sums of the Riemann zeta function.
+A tool for studying the partial sums of the Riemann zeta function.<br />
+View online at:
 
 https://complexity.zone/riemannzetascope/
 
-Riemann Zeta Scope is a portable web app. All the JavaScript code is in the html file.<br />
+riemannzetascope.html is a portable web app. All the JavaScript code is in the html file.<br />
 
 ![Riemann Zeta Scope](./riemannzetascope_screenshot1.png?raw=true "Riemann Zeta Scope")
 <br />
